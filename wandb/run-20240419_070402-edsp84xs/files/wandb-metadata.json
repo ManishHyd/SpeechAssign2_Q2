@@ -1,0 +1,54 @@
+{
+    "os": "Linux-5.15.0-1056-aws-x86_64-with-glibc2.31",
+    "python": "3.10.10",
+    "heartbeatAt": "2024-04-19T07:04:06.397346",
+    "startedAt": "2024-04-19T07:04:02.591353",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "SpeechAssign2_Q2/Q2.ipynb",
+    "codePathLocal": null,
+    "root": "/teamspace/studios/this_studio",
+    "host": "ip-10-192-12-87",
+    "username": "zeus",
+    "executable": "/home/zeus/miniconda3/envs/cloudspace/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2950.04175,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3100.107,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3100.027,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3100.035,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2499.998,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 387.4823341369629,
+            "used": 35.12235641479492
+        }
+    },
+    "memory": {
+        "total": 15.161663055419922
+    }
+}
